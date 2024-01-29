@@ -194,3 +194,7 @@ task_1 >> task_2 >> task_3 >> task_4
 
 #task4 
 task_1[1] >> task_2[1] >> task_3[1] >> task_4[1]
+
+
+
+#KUY
